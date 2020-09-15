@@ -1,4 +1,6 @@
-# bootcamp-git-colab  
+# News on the Balance  
+  
+
 ## About News on the Balance  
 Allows the user to search news articles in different areas to get different points of view, to hopefully avoid any bias.  
 News on the Balance takes the users input to search for relevant articles in both New York Times and the Guardian.  
