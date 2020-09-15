@@ -13,9 +13,9 @@ If the user chooses they can click a headline to be taken to the article on said
 [**GitHub Repo**](https://github.com/jesusmanteca/colab-app)  
   
 ## Contributors
-* Brandi Curley []  
-* Jesus Manteca [https://github.com/jesusmanteca]  
-* Jonathan Sanchez []  
-* Brodie Antenori []  
-* Trevor Pino [https://github.com/TPino92]
+* (Brandi Curley)[https://github.com/galacticnative]  
+* (Jesus Manteca)[https://github.com/jesusmanteca]  
+* (Jonathan Sanchez)[https://github.com/J-sanchez]  
+* (Brodie Antenori)[]  
+* (Trevor Pino)[https://github.com/TPino92]
 
