@@ -16,6 +16,6 @@ If the user chooses they can click a headline to be taken to the article on said
 * [Brandi Curley](https://github.com/galacticnative)  
 * [Jesus Manteca](https://github.com/jesusmanteca)  
 * [Jonathan Sanchez](https://github.com/J-sanchez)  
-* [Brodie Antenori]()  
+* [Brodie Antenori](https://github.com/antenorib1)  
 * [Trevor Pino](https://github.com/TPino92)
 
